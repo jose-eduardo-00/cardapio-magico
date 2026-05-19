@@ -65,3 +65,5 @@ Para rodar este projeto na sua máquina, você precisará do [Node.js](https://n
    ```
 
 ## Imagem do projeto
+
+<img width="1861" height="878" alt="Captura de tela 2026-05-19 105530" src="https://github.com/user-attachments/assets/a1826d48-4520-4dfe-8952-c55d5b078c60" />
